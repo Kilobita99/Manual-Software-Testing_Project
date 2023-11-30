@@ -1,5 +1,6 @@
 # Manual-Software-Testing_Digital Stack
-Interned at Digital Stack, actively contributing to the software testing process with a focus on diverse testing types and levels. Key responsibilities and skills include:
+Interned at Digital Stack, actively contributing to the software testing process with a focus on diverse testing types and levels. 
+Key responsibilities and skills include:
 - Testing Types: Manual vs. Automated Testing, Functional vs. Non-Functional Testing, White Box vs. Black-Box Testing, Dynamic vs. Static Testing
 - Testing Levels: Component Testing, Integration Testing, System Testing, Acceptance Testing
 - Requirements Analysis
@@ -20,4 +21,4 @@ Interned at Digital Stack, actively contributing to the software testing process
 - API Testing using Postman
 - Basic Performance Testing using JMeter
   
-This experience has provided a solid foundation in manual testing methodologies and exposure to a diverse set of testing tools and technologies, contributing to a well-rounded skill set. 
+This experience has provided a solid foundation in manual testing methodologies and exposure to a diverse set of testing tools and technologies, enriching my skill set.

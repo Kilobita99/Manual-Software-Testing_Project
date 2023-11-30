@@ -1,4 +1,4 @@
-# Manual-Software-Testing
+# Manual-Software-Testing_Digital Stack
 Interned at Digital Stack, actively contributing to the software testing process with a focus on diverse testing types and levels. Key responsibilities and skills include:
 - Testing Types: Manual vs. Automated Testing, Functional vs. Non-Functional Testing, White Box vs. Black-Box Testing, Dynamic vs. Static Testing
 - Testing Levels: Component Testing, Integration Testing, System Testing, Acceptance Testing
